@@ -1,6 +1,0 @@
-tisca.app.comedorescomunitarios.test.app-annotation-experimental-1.3.0-0 C:\Users\pablo\.gradle\caches\transforms-3\2cb4b5a46196d7fcbae48de0cc76e1e0\transformed\annotation-experimental-1.3.0\res
-tisca.app.comedorescomunitarios.test.app-core-1.5.0-1 C:\Users\pablo\.gradle\caches\transforms-3\e3e60d3267ff99f2ffe64e4464df67f4\transformed\core-1.5.0\res
-tisca.app.comedorescomunitarios.test.app-androidTest-2 D:\pablo\Documents\TISCA\Comedores_Comunitarios\App\Trabajadores\app\build\generated\res\resValues\androidTest\debug
-tisca.app.comedorescomunitarios.test.app-mergeDebugAndroidTestResources-3 D:\pablo\Documents\TISCA\Comedores_Comunitarios\App\Trabajadores\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-tisca.app.comedorescomunitarios.test.app-mergeDebugAndroidTestResources-4 D:\pablo\Documents\TISCA\Comedores_Comunitarios\App\Trabajadores\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-tisca.app.comedorescomunitarios.test.app-merged_res-5 D:\pablo\Documents\TISCA\Comedores_Comunitarios\App\Trabajadores\app\build\intermediates\merged_res\debugAndroidTest
