@@ -1,0 +1,10 @@
+#Thu Mar 14 13:40:37 CST 2024
+base.0=D\:\\pablo\\Documents\\TISCA\\Comedores_Comunitarios\\App\\Trabajadores\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\pablo\\Documents\\TISCA\\Comedores_Comunitarios\\App\\Trabajadores\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\pablo\\Documents\\TISCA\\Comedores_Comunitarios\\App\\Trabajadores\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=3/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
