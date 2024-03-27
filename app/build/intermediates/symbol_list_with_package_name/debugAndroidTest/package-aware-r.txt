@@ -1,3 +1,0 @@
-tisca.app.comedorescomunitarios.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
